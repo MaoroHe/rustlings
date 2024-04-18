@@ -5,10 +5,8 @@
 // Execute `rustlings hint primitive_types3` or use the `hint` watch subcommand
 // for a hint.
 
-// I AM NOT DONE
-
 fn main() {
-    let a = ???
+    let a = ["Bonjour", "Ca va", "oui", "hehehehe", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui", "Bonjour", "Ca va", "oui"];
 
     if a.len() >= 100 {
         println!("Wow, that's a big array!");
